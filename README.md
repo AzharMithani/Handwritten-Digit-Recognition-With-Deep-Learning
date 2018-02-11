@@ -31,7 +31,7 @@ Requirements : Python 3.5,sklearn,opencv,numpy,imutils
 ![alt text](https://github.com/AzharMithani/Handwritten-Digit-Recognition-With-Deep-Learning/blob/master/result1.jpg)
 
 
-> As we can see in above image ,one of our digit gets classified incorrectly!
+> As we can see in above image ,two of our digits gets classified incorrectly!
 
 > One of the key thing to remember here is that extracting digit area from the natural image requires thresholding
 	which is ofcourse in some cases leads to error,hence testing images should have proper exposure and evenly 
